@@ -1,0 +1,10 @@
+body{font-family: "Times New Roman", Georgia, Serif;
+    /* background-color: #DAA06D; */
+    background: linear-gradient(to bottom, #4b21118c 0%, #efbd90 100%);
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
