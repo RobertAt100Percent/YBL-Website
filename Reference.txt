@@ -1,0 +1,19 @@
+this text file holds all the references needed for the webpage. 
+
+YBL Mission : 
+
+websites to reference :
+
+information references :
+
+CSS references :
+
+    o https://www.cleancss.com/css-beautify/ 
+         - CSS formatter
+         - need to make a local formatter to keep website security
+
+    o https://www.w3schools.com/w3css/4/w3.css 
+    o https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css 
+        -above is the bootstrap 5 and w3schools CSS sheets incase we lose them
+JavaScript references : 
+    o 
